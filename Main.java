@@ -2,7 +2,6 @@ class Main {
   public static void main(String[] args){
     String [] arr1 = new String [12];
     String [] arr2 = {"Jasmine", "Lucile", "Sam", "Dennis", "Nour", "Thomas", "Mike", "Jean", "Erica", "Rachel"};
-
     arr1[0] = "Josh";
     arr1[1] = arr2[1];
     System.out.println(arr1[0]);
