@@ -9,7 +9,8 @@ class Main {
     
   for(int index = 2; index < arr2.length; index++){
     arr1[index] = arr2[index];
-    System.out.println(arr1[index]);}  
+    System.out.println(arr1[index]);
+  }  
   arr1[10] = "Katie";
   arr1[11] = "Luke";
   System.out.println(arr1[10]);
